@@ -1,0 +1,112 @@
+====セブンとエイト=========
+===========================
+ [-]
+denchu/__pycache__/denchu_post.cpython-312.pyc
+denchu/__pycache__/Enemy.cpython-312.pyc
+denchu/__pycache__/Config.cpython-312.pyc
+denchu/__pycache__/Oden.cpython-312.pyc
+denchu/__pycache__/World.cpython-312.pyc
+denchu/__pycache__/Logger.cpython-312.pyc
+denchu/__pycache__/Utils.cpython-312.pyc
+denchu/__pycache__/Customers.cpython-312.pyc
+denchu/__pycache__/Denchu.cpython-312.pyc
+denchu/__pycache__/app.cpython-312.pyc
+denchu/__pycache__/denchu_auth.cpython-312.pyc
+denchu/__pycache__/AnimationEngine.cpython-312.pyc
+denchu/__pycache__/Robots.cpython-312.pyc
+denchu/__pycache__/TileObject.cpython-312.pyc
+#####################
+-----program.py------
+stage(-1) #ステージ番号を適切な値に書き換えること！
+#定数の宣言はここに書く
+#関数やクラスの宣言はここに書く
+    
+    #ここにコードを書きます．関数宣言はmy_programの外に書く
+=================
+ [+]
+programall.py
+programall cheat.py
+programall2.py
+////Replace File\\\\
+-----program.py------
+stage(-1)  # ステージ番号を適切な値に書き換えること！
+# 定数の宣言はここに書く
+# 関数やクラスの宣言はここに書く
+    # ここにコードを書きます．関数宣言はmy_programの外に書く
+=====エイトとナイン========
+===========================
+ [-]
+program01.py
+programall.py
+programall cheat.py
+programall2.py
+////Replace File\\\\
+-----denchu/Config.py------
+        4: [[
+            '00@000$000',
+            '0000310000',
+            '0030003000',
+            '030300QW00',
+            '030303E000',
+            '3030033330',
+            '3003033000',
+            '0000000003',
+            '000000003@'
+            '000130013$'
+        ], is_a_robot_turned_on]
+=================
+ [+]
+progrmaall.py
+foo
+bar
+////Replace File\\\\
+-----denchu/Config.py------
+        ], is_a_robot_turned_on],
+        12: [[
+            '3333313333',
+            '3333323333',
+            '33333@3333',
+        13: [[
+            '3331313111',
+             '3431313111',
+             '3331323111',
+             '1111313111',
+             '1111323111',
+             '11113@3111',
+             ], is_charged_once],
+        15: [[
+             '1333333332',
+             '2333333331',
+             '2333433331',
+             '1333333330',
+             '1333333331',
+             '111221110@'
+        14: [[
+             '1111111111',
+             '1133311111',
+             '1134311111',
+             '111111111@',
+             ], is_a_robot_turned_on],
+        16: [[
+        17: [[
+            '1112232111',
+            '1333331122',
+            '1333331212',
+            '2333331211',
+            '2333431221',
+            '1333331121',
+            '1333331112',
+            '1333331222',
+            '1333331211',
+            '111221111@'
+        19: [[
+            '1300000000',
+            '13abcddcba',
+            '13cdabcbda',
+            '23cbdacbda',
+            'e3dbcadbca',
+            'f3dbcadbca',
+            '13dcabdcab',
+            '13acbdacbd',
+            '130000000@'
+        ], are_all_the_robot_charged_once]
